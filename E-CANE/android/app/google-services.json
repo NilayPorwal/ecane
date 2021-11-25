@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021854016580",
+    "firebase_url": "https://e-cane.firebaseio.com",
+    "project_id": "e-cane",
+    "storage_bucket": "e-cane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021854016580:android:20a9a1a5a793ebf79dc811",
+        "android_client_info": {
+          "package_name": "in.skyras.e_cane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021854016580-2mjr065pka66ndpmrms3l6017b1t5lfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNuantYiLyhPV9eLs22oFgnZnN-fl9Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021854016580-2mjr065pka66ndpmrms3l6017b1t5lfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

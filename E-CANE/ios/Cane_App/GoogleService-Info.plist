@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1021854016580-t8deueto9g6gjo11p0popt6oq87jabh3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1021854016580-t8deueto9g6gjo11p0popt6oq87jabh3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8nWaQ8-7XyVbruQNt3RW3ali7ivGuBjY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1021854016580</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.skyras.e-cane</string>
+	<key>PROJECT_ID</key>
+	<string>e-cane</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-cane.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1021854016580:ios:f874b5168756e0749dc811</string>
+	<key>DATABASE_URL</key>
+	<string>https://e-cane.firebaseio.com</string>
+</dict>
+</plist>
